@@ -1,1 +1,1 @@
-# wafer_defect_classification
+# wafer defect classification based on data augmentation
